@@ -1051,7 +1051,10 @@ Una volta aperta la bash con privilegi di roor, su /mnt/root/root/gameover.txt t
 ![Schermata da 2019-10-05 10-35-25](https://user-images.githubusercontent.com/54471416/66257315-73154e00-e765-11e9-9103-1378f0eaac03.png)
 
 
+![flag2jigsaw](https://user-images.githubusercontent.com/54471416/66258418-58fb6000-e7a5-11e9-9380-166da10b2833.PNG)
 
+Presa!
 
-
+Walter Messina - phan2sec@gmail.com
+Freecircle Security Team
 
